@@ -1,4 +1,4 @@
-# react-native-gmae-app
+# react-native-game-app
 React Native Game App
 
 ## Prerequisite
