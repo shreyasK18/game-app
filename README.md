@@ -1,5 +1,5 @@
-# react-native-basic-app
-React Native Basic App
+# react-native-gmae-app
+React Native Game App
 
 ## Prerequisite
 
