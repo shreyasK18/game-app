@@ -6,6 +6,8 @@ import MainButton from '../components/MainButton';
 import BodyText from '../components/BodyText';
 import { Ionicons } from '@expo/vector-icons';
 const generateRandomBetween=(min,max,exclude)=>{
+    
+    
     min=Math.ceil(min);
     max=Math.floor(max);
     const rndNum=Math.floor(Math.random() * (max - min)) + min;
